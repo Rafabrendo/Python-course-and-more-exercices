@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../calculadora_com_while"
+		},
+		{
+			"path": "../contagem_de_letra"
+		},
+		{
+			"path": "../detalhes_interpretador_python"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../exibindo_indices_numa_lista"
+		},
+		{
+			"path": "../funcionamento_basico_do_for"
+		},
+		{
+			"path": "../gerador_de_cpf"
+		},
+		{
+			"path": "../jogo_da_palavra_secreta"
+		},
+		{
+			"path": "../lista_de_compras"
+		},
+		{
+			"path": "../lista_de_compras_resolucao"
+		}
+	]
+}
